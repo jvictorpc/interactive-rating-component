@@ -1,6 +1,6 @@
 const submit = document.querySelector('.rating__btn');
 const estruturaCard = document.querySelector('.rating');
-console.log(estruturaCard);
+
 
 
 submit.addEventListener('click', (event) => {
